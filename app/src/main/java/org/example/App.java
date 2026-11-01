@@ -20,5 +20,6 @@ public class App {
     System.out.println(testThree);
     int testFour = finder.binarySearch(randomFuzzies);
     System.out.println(testFour);
+
   }
 }
